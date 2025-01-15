@@ -1,0 +1,28 @@
+.footer-background {
+  background-color: white;
+  width: 100%;
+  margin: 0%;
+  border-top: 10px #ffb500 solid;
+  padding: 35px 0px 100px 0px;
+  margin-top: 90px;
+
+  font-size: 16px;
+  font-weight: 300;
+
+  .col-12 {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+  }
+  a {
+    text-decoration: none;
+  }
+}
+.footer-container {
+  .col-6 {
+    .row {
+      margin-top: 24px;
+      margin-bottom: 35px;
+    }
+  }
+}

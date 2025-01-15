@@ -1,0 +1,22 @@
+.card {
+  border: 1px solid #979797;
+  background: #fff;
+  text-wrap-mode: nowrap;
+  margin: 30px 15px;
+  overflow: hidden;
+}
+.card-image {
+  width: 100%;
+  height: auto;
+}
+.card-name {
+  margin: 20px 20px 0px 20px;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.card-location {
+  margin: 0px 20px 20px 20px;
+  font-size: 16px;
+  font-weight: 500;
+}
